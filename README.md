@@ -98,6 +98,8 @@ print(mydb)
 A informação do Host, poderá ser encontrada na página da sua instância na parte de <b> EndPoint e porta </b>
 Geralmente o endpoint é um endereço com o nome do seu banco na frente. Então seu endpoint será do formato:
 
+<b>database-1.XXXX.rds.amazonaws.com</b>
+
 Após executar o arquivo python, deverá aparecer a seguinte mensagem: <br>
 ![image](https://user-images.githubusercontent.com/84134732/193096676-18ce9c45-eda4-426c-b7b6-d74c815370cf.png)<br>
 Que é justamente o objeto da conexão, em outras palavras, a conexão com o banco de dados criado está estabelecida!
