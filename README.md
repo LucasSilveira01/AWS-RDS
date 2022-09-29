@@ -50,7 +50,7 @@ Nosso primeiro passo para seguirmos o roteiro é criar uma conta na AWS.
   - Clique novamente na barra de pesquisa e pesquise por EC2 e clique na primeira opção
     ![image](https://user-images.githubusercontent.com/84134732/193092426-fda325b1-01b6-4382-aa48-c3ef44e71c76.png)
   
-  - No menu lateral, clique em <b>Security Group</b>
+  - No menu lateral, clique em <b>Security Group</b><br>
   ![image](https://user-images.githubusercontent.com/84134732/193092619-328cf240-d23f-40b3-8c28-657904f11562.png)
   
   - Clique em criar grupo de segurança
