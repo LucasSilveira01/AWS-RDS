@@ -1,3 +1,4 @@
+![Screenshot from 2022-09-29 13-24-00](https://user-images.githubusercontent.com/84134732/193086812-e130bdcd-003f-43dc-86ba-9de94f3d1996.png)
 # Roteiro Engenharia de Software - Serviços de Computação em Núvem AWS
 
 Integrantes: Alanis Viana, André Oliveira e Lucas da Silveira
